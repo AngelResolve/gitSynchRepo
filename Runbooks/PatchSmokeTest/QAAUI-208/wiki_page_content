@@ -1,0 +1,12 @@
+{section:type=result,source|title=Untitled Section}
+<table style="width:100%" class="wiki-builder"><tr>
+<td style="width:50%;vertical-align:top;" class="wiki-builder">
+{result2:title=Automation Result|encodeSummary=false|refreshInterval=5|refreshCountMax=60|descriptionWidth=0|order=DESC|autoCollapse=false|collapsed=false|autoHide=false|filter=|progress=true|selectAll=true|includeStartEnd=false|preserveTaskOrder=true|showWiki=PatchSmokeTest.QAAUI-208}
+
+{result2}
+</td class="wiki-builder">
+<td style="width:50%;vertical-align:top;" class="wiki-builder">
+
+</td class="wiki-builder">
+</tr></table class="wiki-builder">
+{section}
